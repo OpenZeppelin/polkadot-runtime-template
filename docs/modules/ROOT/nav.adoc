@@ -13,3 +13,4 @@
 ** xref:pallets/parachain-system.adoc[parachain_system]
 ** xref:pallets/balances.adoc[pallet_balances]
 ** xref:pallets/xcmp-queue.adoc[cumulus_pallet_xcmp_queue]
+** xref:pallets/assets.adoc[pallet_assets]
